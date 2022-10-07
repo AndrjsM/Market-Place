@@ -1,6 +1,6 @@
 # Pediente nombre de tienda
 
-Utilice https://lucid.app/ para el flujograma y https://www.figma.com/ para el Buyer persona.
+Utilicé https://lucid.app/ para el flujograma y https://www.figma.com/ para el Buyer persona.
 
 ## **1. Toma de requerimientos.**
 Idea de negocio: En CRI hay un aumento de ventas por “catálogo”, las personas postean sus productos en redes sociales y coordinan entregas a domicilio y en sitio, el alcance de estas personas es su nicho de amigos en redes sociales y búsquedas por Facebook market o Instagram market, la aplicación y pagina web busca ampliar el público mercado, ofreciendo un alcance mayor con distintas herramientas de búsqueda, una vista atractiva y facilidades para el vendedor.
@@ -13,7 +13,7 @@ Para el administrador el sitio y app buscan facilitar el manejo de inventario, l
  
 Estructura e ideas de implementación: 
  
-###Usuario: 
+### Usuario: 
 Inicio de sesión/crear perfil 
 Búsqueda de productos por tipo y categorías. 
 Ofrecer geolocalización del producto por categoría.  
@@ -23,7 +23,7 @@ Compartir dirección (Waze, Maps)
 Fotos: Carrusel, información de productos y precio (Tipo: nuevo o usado). 
 Reseña del producto y el vendedor. 
 
-###Admin/vendedor: 
+### Admin/vendedor: 
 Inicio de sesión/crear perfil 
 Facilidad carga del repositorio de productos. (Foto: dimensiones, descripción, precio)  
 Módulo de promociones.  
@@ -38,5 +38,4 @@ Deseables: Documento formato de impuestos.
 <img src="https://github.com/AndrjsM/Market-Place/blob/main/Market%20Place.png" />
 
 ## **3. Buyer persona.**
-
-
+<img src="https://github.com/AndrjsM/Market-Place/blob/main/Android%20Large%20-%201.png" />
