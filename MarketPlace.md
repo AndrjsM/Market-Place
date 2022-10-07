@@ -35,4 +35,8 @@ Productos más solicitados.
 Deseables: Documento formato de impuestos. 
 
 ## **2. Diagrama de flujo.**
-<img src="" />
+<img src="https://github.com/AndrjsM/Market-Place/blob/main/Market%20Place.png" />
+
+## **3. Buyer persona.**
+
+
