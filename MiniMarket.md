@@ -1,6 +1,12 @@
-# Pediente nombre de tienda
+# Mini Market
 
-Utilicé https://lucid.app/ para el flujograma y https://www.figma.com/ para el Buyer persona.
+<img src="https://github.com/AndrjsM/Market-Place/blob/main/Logo_Mini_Market.png" />
+
+## Herramientas utilizadas
+https://lucid.app/ para el flujograma.<br>
+https://www.figma.com/ para el Buyer persona.<br>
+https://looka.com/ para el logo.<br>
+https://express.adobe.com/ para la paleta de colores.<br>
 
 ## **1. Toma de requerimientos.**
 Idea de negocio: En CRI hay un aumento de ventas por “catálogo”, las personas postean sus productos en redes sociales y coordinan entregas a domicilio y en sitio, el alcance de estas personas es su nicho de amigos en redes sociales y búsquedas por Facebook market o Instagram market, la aplicación y pagina web busca ampliar el público mercado, ofreciendo un alcance mayor con distintas herramientas de búsqueda, una vista atractiva y facilidades para el vendedor.
